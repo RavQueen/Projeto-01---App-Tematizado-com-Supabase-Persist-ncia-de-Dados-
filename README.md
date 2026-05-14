@@ -1,0 +1,1 @@
+# Projeto-01---App-Tematizado-com-Supabase-Persist-ncia-de-Dados-
